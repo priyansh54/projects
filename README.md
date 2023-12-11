@@ -1,3 +1,3 @@
 # projects
-python projects
+python projects.
 Author - Priyansh
