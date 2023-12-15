@@ -1,4 +1,4 @@
 # Projects
-python projects.
+Python Projects.
 <br>
 Author- Priyansh
