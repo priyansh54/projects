@@ -1,3 +1,4 @@
+from mimetypes import guess_all_extensions
 import random
 
 
@@ -16,7 +17,7 @@ def computer_guess(x):
         elif feedback == "l":
             low = guess + 1    
 
-    print(f'Yay, congrats. You have guessed the number {guess} correctly!!')
+    print(f'Yay, congrats. You have guessed the number {guess_all_extensions} correctly!!')
 
 
-computer_guess(10)
+computer_guess(10000)
